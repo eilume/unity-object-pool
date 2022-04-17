@@ -1,0 +1,18 @@
+{
+    "name": "eilume.ObjectPool.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:00d9c661ddcdb42d4ad958ab9a4a1fc3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

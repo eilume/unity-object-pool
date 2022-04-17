@@ -1,0 +1,24 @@
+{
+    "name": "eilume.ObjectPool.Demos.BulletHell",
+    "rootNamespace": "",
+    "references": [
+        "GUID:00d9c661ddcdb42d4ad958ab9a4a1fc3",
+        "GUID:57758e18a887347c58ae783da5032ff4",
+        "GUID:2665a8d13d1b3f18800f46e256720795"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.burst",
+            "expression": "1",
+            "define": "UNITY_BURST"
+        }
+    ],
+    "noEngineReferences": false
+}
